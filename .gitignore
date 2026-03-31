@@ -1,0 +1,24 @@
+*
+!*/
+!*.py
+!.gitignore
+# Virtual environment
+venv/
+.venv/
+# Editor / IDE
+.vscode/
+.idea/
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+# Test / tooling cache
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+# Local environment files
+.env
+# Crash dumps
+*.stackdump
+venvBackend
